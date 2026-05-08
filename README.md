@@ -1,7 +1,10 @@
-# Hi there 
-
-**adylon/adylon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Hello there 🖖... I'm JJ 💀 🖤 👻 🦉
+"I'm not quite sure how to put this, but… I'm kind of a big deal 😎 … People know me. I have many leather-bound books 📚, and my apartment smells of rich mahogany 🪵."<br><br>
+-- Ron Burgandy
+<br>
+<br>
+<br>
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
